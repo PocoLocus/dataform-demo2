@@ -1,4 +1,4 @@
 defaultProject: my-gcp-course-project-502414
-defaultDataset: dataform
+defaultDataset: dataset_for_dataform
 defaultAssertionDataset: dataform_assertions
 dataformCoreVersion: 3.0.52
